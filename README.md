@@ -17,11 +17,11 @@ Data is visualized with matplotlib to display a graph of a full calendar for a s
 
 ## Charting
 #### • Graphing from a Calendar page
-<img src="https://github.com/tomm3hgunn/southwest-demo/blob/main/docs/examples/calendarEx.gif" height="200">
-<img src="https://github.com/tomm3hgunn/southwest-demo/blob/main/docs/examples/calendarGraph.gif" height="500">
+<img src="https://github.com/tomm3hgunn/southwest-demo/blob/main/docs/examples/calendarEx.png" height="200">
+<img src="https://github.com/tomm3hgunn/southwest-demo/blob/main/docs/examples/calendarGraph.png" height="300">
 
-
-
+#### • Graphing History from a Database (more examples in docs/graphs)
+<img src="https://github.com/tomm3hgunn/southwest-demo/blob/main/docs/graphs/KansasCitySanDiego_2022-07-13.png" height = 300>
 
 ## Sample Email
 <img src="https://github.com/tomm3hgunn/southwest-demo/blob/main/docs/examples/emailExample.jpg" height="500">
