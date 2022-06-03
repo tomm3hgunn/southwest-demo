@@ -9,3 +9,8 @@ Utilizes SQL database to store and receive data in order to compare current and 
 In main.py, it runs a full scan of a chosen origin/destination calendar. In SinglularTrack.py, the link is hardcoded to a specific page to get a single price change where the flight is non-stop.
 
 Data is visualized with matplotlib to display a graph of a full calendar for a specific origin/destination to depart/return dates. History graphs of every single date for a specific origin/destination is generated.
+
+<img src="https://github.com/tomm3hgunn/southwest-demo/blob/main/docs/examples/emailExample.jpg" height="500">
+<img src="https://github.com/tomm3hgunn/southwest-demo/blob/main/docs/examples/southwest-demo.gif" height="500">
+
+
