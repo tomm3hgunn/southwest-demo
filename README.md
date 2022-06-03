@@ -10,7 +10,21 @@ In main.py, it runs a full scan of a chosen origin/destination calendar. In Sing
 
 Data is visualized with matplotlib to display a graph of a full calendar for a specific origin/destination to depart/return dates. History graphs of every single date for a specific origin/destination is generated.
 
-<img src="https://github.com/tomm3hgunn/southwest-demo/blob/main/docs/examples/emailExample.jpg" height="500">
+## Form Filling
+
+#### • Take user input or use default values of orgin, destination, dates, and passengers to get the specific flight calender, store into database, and notify any differences via email.
 <img src="https://github.com/tomm3hgunn/southwest-demo/blob/main/docs/examples/southwest-demo.gif" height="500">
+
+## Charting
+#### • Graphing from a Calendar page
+<img src="https://github.com/tomm3hgunn/southwest-demo/blob/main/docs/examples/calendarEx.gif" height="200">
+<img src="https://github.com/tomm3hgunn/southwest-demo/blob/main/docs/examples/calendarGraph.gif" height="500">
+
+
+
+
+## Sample Email
+<img src="https://github.com/tomm3hgunn/southwest-demo/blob/main/docs/examples/emailExample.jpg" height="500">
+
 
 
