@@ -26,7 +26,7 @@ Data is visualized with matplotlib to display a graph of a full calendar for a s
 <img src="https://github.com/tomm3hgunn/southwest-demo/blob/main/docs/examples/calendarEx.png" height="200">
 <img src="https://github.com/tomm3hgunn/southwest-demo/blob/main/docs/examples/calendarGraph.png" height="300">
 
-#### • Graphing History from a Database (more examples in docs/graphs)
+#### • Graphing History from a Database (more examples [here](https://github.com/tomm3hgunn/southwest-demo/tree/main/docs/graphs))
 <img src="https://github.com/tomm3hgunn/southwest-demo/blob/main/docs/graphs/KansasCitySanDiego_2022-07-13.png" height = 300>
 
 ## Sample Email
